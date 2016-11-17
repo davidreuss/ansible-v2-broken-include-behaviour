@@ -1,0 +1,4 @@
+---
+
+- hosts: "all"
+- include: "site/plays/a/play.yml"
